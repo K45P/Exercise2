@@ -19,7 +19,7 @@
  > race condition is when the sequence or timing of events is different from what is intended. Data race is when there are two concurrent memory writes which target the same memory address.
 
 ### List some advantages of using message passing over lock-based synchronization primitives.
- it's easier.
+ > performance is better.
 
 ### List some advantages of using lock-based synchronization primitives over message passing.
-performance is better.
+> it's easier.
