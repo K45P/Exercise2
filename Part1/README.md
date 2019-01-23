@@ -22,4 +22,4 @@
  > performance is better.
 
 ### List some advantages of using lock-based synchronization primitives over message passing.
-> it's easier.
+> it's easier and safer.
